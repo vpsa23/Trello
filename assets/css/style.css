@@ -1,0 +1,64 @@
+/*Estilo para el menú principal*/
+.fondo{
+	background-color: #026AA7;
+	width: 100%;
+	height: 30px;
+	padding: 9px;
+	position: relative;
+	top: -8px;
+	right: 10px;
+	display: block;
+}
+
+#tablero{
+	background-color: #5499C7   ;
+	font-size: 16px;
+	color: #fff;
+	height: 35px;
+	width: 100px;
+	font-family: Helvetica;
+	text-align: center;
+	vertical-align: center;
+	border-radius: 5px;
+	margin-top: auto;
+}
+
+#buscador{
+	background-color: #5499C7   ;
+	color: #fff;
+	height: 35px;
+	width: 200px;
+	text-align: center;
+	vertical-align: center;
+	border-radius: 5px;
+	margin-left: 150px;
+	margin-top: -38px;
+}
+
+.fa-search{
+	color: #fff;
+	float: right;
+	margin-right: 18px;
+	margin-top: 5px;
+}
+
+#trello{
+	color: #fff;
+	font-family: Leckerli One;
+	position: absolute;
+	left: 700px;
+	bottom: 10px;
+	font-size: 25px;
+}
+
+/*Primer Cuadro Input*/
+input{
+	color: #fff;
+}
+
+#pcuadro{
+	background-color: #026AA7;
+	border-radius: 6px;
+	height: 30px;
+	width: 200px;
+}
